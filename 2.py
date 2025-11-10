@@ -58,4 +58,5 @@ def menu():
             binary()
         elif choice==4:
             exit()  
+
 menu()
